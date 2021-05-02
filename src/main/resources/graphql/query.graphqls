@@ -1,0 +1,4 @@
+# Some Query Comment
+type Query {
+    bankAccount(id: ID): BankAccount
+}
